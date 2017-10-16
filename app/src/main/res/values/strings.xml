@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProvider01</string>
+    <string name="consultar">consultar</string>
+    <string name="insertar">insertar</string>
+    <string name="llamadas">llamadas</string>
+    <string name="eliminar">eliminar</string>
+</resources>
